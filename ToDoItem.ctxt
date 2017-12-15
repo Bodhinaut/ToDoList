@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ToDoItem()
+comment1.params=priority\ what\ when
+comment1.target=ToDoItem(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPriority()
+comment3.params=
+comment3.target=java.lang.String\ getWhat()
+comment4.params=
+comment4.target=java.lang.String\ getWhen()
+comment5.params=priority
+comment5.target=ToDoItem\ setPriority(int)
+comment6.params=what
+comment6.target=ToDoItem\ setWhat(java.lang.String)
+comment7.params=when
+comment7.target=ToDoItem\ setWhen(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
